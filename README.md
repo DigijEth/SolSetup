@@ -5,7 +5,7 @@ Automates the installation of essential Solidity and Ethereum development toolin
 
 ### 🔧 Tools Installed
 
-When you run the setup script (e.g., `./install.sh`), it installs:
+When you run the setup script (e.g., `./init_setup.sh`), it installs:
 
 * **Node.js** (via nvm) – ensures a compatible JavaScript runtime
 * **npm / yarn** – JavaScript package managers
