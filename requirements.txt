@@ -1,0 +1,5 @@
+# path: requirements.txt
+solana
+pynacl
+face_recognition
+cryptography
