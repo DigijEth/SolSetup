@@ -1,0 +1,23 @@
+# path: clients/cli/package.json
+{
+  "name": "zero-trust-cli",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "encrypt-upload": "ts-node src/encrypt_upload.ts",
+    "test": "mocha -t 1000000 ../tests/**/*.ts"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.30.0",
+    "@noble/ciphers": "^1.1.0",
+    "@noble/hashes": "^1.4.0",
+    "@solana/web3.js": "^1.95.0",
+    "ipfs-http-client": "^60.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.0"
+  }
+}
