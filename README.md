@@ -19,7 +19,7 @@ When you run the setup script (e.g., `./init_setup.sh`), it installs:
 * **Ethers.js** – Ethereum library
 * Any additional tools prescribed via plugin system or config file
 
-*(Adjust this list based on your actual script – I inferred common tools typically used in Solidity setups.)*
+*(Adjust this list based on your actual requirements – I included the most common tools typically used in Solidity setups.)*
 
 ### 🚀 Quick Start
 
