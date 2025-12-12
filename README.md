@@ -161,15 +161,3 @@ To customize aliases or tool versions, edit these sections directly in your shel
 
 ## Shell Integration & Customization
 ```
-
----
-
-### ✅ Next Steps
-
-* Update the **Tools Installed** section with the exact tools your script installs.
-* Paste relevant snippets from your `install.sh` (like how it installs nvm or npm tools).
-* Link users to key docs:
-
-  * [nvm usage](https://github.com/nvm-sh/nvm)
-  * [Truffle docs](https://www.trufflesuite.com/docs)
-  * [Hardhat docs](https://hardhat.org/getting-started)
